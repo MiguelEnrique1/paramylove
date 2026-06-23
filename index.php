@@ -207,7 +207,7 @@ if(count($imagenes)>0){
     </div>
     <div class="sobre" onclick="abrirSobre('m3',this)">
         <div class="mensaje"> cada una de las canciones que me recuerdan y me hacen sentir como tu me haces sentir 
-            <iframe src="https://open.spotify.com/playlist/71pxu7W0BZvWa5QOzaiijw?si=c0a220e10899424d"
+            <iframe src="https://open.spotify.com/playlist/71pxu7W0BZvWa5QOzaiijw?si=ade2d93de0564a6c"
                 allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
         </div>
     </div>
